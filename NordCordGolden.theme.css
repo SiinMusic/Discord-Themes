@@ -1,0 +1,37 @@
+/**
+ * @name NordCord Golden
+ * @description Siin's Discord Nord Theme, built off of DiscordRecolor.
+ * @author SiinMusic
+ * @version 1.0.0
+ * @authorId 199253552592453632
+ * @invite https://discord.gg/Vsejzba3ry
+ * @donate https://www.paypal.me/TheSiinner
+ * @source 
+ * @updateUrl 
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 94,129,172;
+  --accentcolor2: 180,142,173;
+  --linkcolor: 136,192,208;
+  --mentioncolor: 236,239,244;
+  --textbrightest: 236,239,244;
+  --textbrighter: 229,233,240;
+  --textbright: 235,203,139;
+  --textdark: 216,222,233;
+  --textdarker: 235,203,139;
+  --textdarkest: 46,52,64;
+  --backgroundaccent: 59,66,82;
+  --backgroundprimary: 46,52,64;
+  --backgroundsecondary: 67,76,94;
+  --backgroundsecondaryalt: 59,66,82;
+  --backgroundtertiary: 46,52,64;
+  --backgroundfloating: 46,52,64;
+  --settingsicons: 1;
+/*
+  --HSL-server-icon-size: 40px;
+  --HSL-server-spacing: 10px;
+  */
+}
